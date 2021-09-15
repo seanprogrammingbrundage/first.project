@@ -9,6 +9,10 @@ import java.util.Scanner;
 public class HolyGrail {
 
     public static void main(String[] args) {
+        /**
+         * Main entry point for public class HolyGrail, executes program
+         * @param args none
+         */
         System.out.println("* A chat with the bridge keeper *" + '\n' + "Who would cross the Bridge of Death must answer me these questions three, ere the other side he see.");
         Scanner input = new Scanner(System.in);
         System.out.print("Question 1: What is your name? ");
